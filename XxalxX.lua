@@ -52,6 +52,7 @@ local Creators = {
 local Admins = {}
 local Vips = {
     ["AaravGamer9586"] = true,
+    ["Vedantplays122"] = true,
 }
 local Daddys = {
     ["diva_bobagirl"] = true,
